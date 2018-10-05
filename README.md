@@ -16,7 +16,7 @@ All files that require dbConnection.php will be able to use the $conn variable.
 It is also recommended to create a function in this file or in the utils.php file that you can call for sanitization purposes.
 */
 $conn = mysqli_connect($dbHostname, $dbUsername, $dbPassword, $dbSchema);
-?>
+
 ---END EXAMPLE CODE---
 
 A directory will need to be created within the "game" directory called 'box_images'.
