@@ -4,6 +4,7 @@ Web-based database with GUI for management of games owned (video games, card gam
 A dbConnection.php file will need to be created with database connection properties and schema. Example:
 
 ---START EXAMPLE CODE---
+
 $dbHostname = "/*database hostname*/";
 $dbUsername = "/*database Username*";
 $dbPassword = "/*database password*/";
