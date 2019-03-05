@@ -1,5 +1,5 @@
 # GameTracker
-Web-based database with GUI for management of games owned (video games, card games, board games, etc)
+Web-based database with GUI for management of games owned (video games, card games, board games, etc.)
 
 A dbConnection.php file will need to be created with database connection properties and schema. Example:
 
