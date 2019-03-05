@@ -2,6 +2,7 @@
 /*
 Dynamically creates the landing page for the EOC project files page
 */
+//This is a test comment
 error_reporting(E_ALL);
 require_once('utils.php');
 // require_once('dbConnection.php');
